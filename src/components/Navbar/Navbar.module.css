@@ -1,0 +1,15 @@
+.nav {
+    grid-area: n;
+    background-color: blue;
+  
+  }
+
+.item {
+  color: tomato;
+  padding: 10px;
+}
+
+.item:hover {
+  border: 1px solid red;
+  padding: 1px;
+}
