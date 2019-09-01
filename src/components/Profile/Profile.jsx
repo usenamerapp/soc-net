@@ -5,6 +5,7 @@ import Post from './Post/Post'
 const Profile = () => {
     return (
         <div className={styles.content}>
+            
            <Post />
         </div>)
 }
